@@ -1,3 +1,5 @@
+This is a forked-version of the original flex theme, the only change I have done here is use a archive style index page listing as I want a concise behaviour as I prefer to read a list on index page. You can visit [blog](https://yagami26.github.io)
+
 # Flex
 
 The minimalist [Pelican](http://blog.getpelican.com/) theme.
